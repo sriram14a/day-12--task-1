@@ -1,0 +1,37 @@
+html{
+    scroll-behavior: smooth;
+}
+.back{
+    background-color: black;
+}
+.namesec {
+    height: 100vh;
+}
+
+.heading h1 {
+    padding-top: 25%;
+    font-size: 100px;
+}
+
+.hr-theme-slash-2 {
+    padding: 50px;
+    display: flex;
+}
+
+.hr-line {
+    width: auto;
+    margin: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.314);
+}
+
+.hr-icon {
+    top: 3px;
+    color: rgba(0, 0, 0, 0.175);
+}
+.fa-star{
+    font-size: 30px;
+}
+.vl {
+    border-left: 1px solid rgba(218, 213, 239, 0.37);
+    height: 50px;
+  }
